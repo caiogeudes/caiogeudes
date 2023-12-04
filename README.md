@@ -1,6 +1,8 @@
 # Olá, sejam bem vindos ao meu perfil!
 
-### Sou estudante de **Engenharia de Software** pela UNIASSELVI e também curso **Desenvolvimento de Software com Foco em BackEnd** na Cubos Academy.
+### ◉ Sou um Desenvolvedor BackEnd
+### ◉ Estudo *Engenharia de Software* pela UNIASSELVI
+### ◉ Estudei *Desenvolvimento de Software com foco em BackEnd* pela Cubos Academy (500h)
 ### Minhas principais tecnologias são:
 
 <div style="display: inline_block"><br>
